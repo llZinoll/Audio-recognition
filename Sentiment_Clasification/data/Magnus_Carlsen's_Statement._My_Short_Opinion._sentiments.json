@@ -1,0 +1,146 @@
+[
+    {
+        "text": "Hello, guys.",
+        "start": 70,
+        "end": 714,
+        "sentiment": "POSITIVE",
+        "confidence": 0.4882674217224121,
+        "speaker": null
+    },
+    {
+        "text": "Short video about Magnus cow's statement.",
+        "start": 812,
+        "end": 3750,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.801386296749115,
+        "speaker": null
+    },
+    {
+        "text": "What I am thinking I want to say just a couple words.",
+        "start": 4070,
+        "end": 6642,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8699070811271667,
+        "speaker": null
+    },
+    {
+        "text": "I finally changed my mind and I fully agree with every word.",
+        "start": 6716,
+        "end": 12426,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7634548544883728,
+        "speaker": null
+    },
+    {
+        "text": "What Magnus said it's really hard, hard to play with people who already had cheated on the chat, even if it's online or offline.",
+        "start": 12488,
+        "end": 22590,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.8377159833908081,
+        "speaker": null
+    },
+    {
+        "text": "What I want to say he didn't say all the information, what he have.",
+        "start": 24350,
+        "end": 30258,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7188559770584106,
+        "speaker": null
+    },
+    {
+        "text": "I think because he knows something more.",
+        "start": 30284,
+        "end": 36622,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7117798328399658,
+        "speaker": null
+    },
+    {
+        "text": "Maybe he just catch him on the Twitter or something like that, I don't know.",
+        "start": 36756,
+        "end": 42970,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7849958539009094,
+        "speaker": null
+    },
+    {
+        "text": "No one knows.",
+        "start": 43140,
+        "end": 44102,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5419828295707703,
+        "speaker": null
+    },
+    {
+        "text": "But it's still not over about this situation.",
+        "start": 44186,
+        "end": 47820,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.5681712031364441,
+        "speaker": null
+    },
+    {
+        "text": "And very logical question what next?",
+        "start": 48390,
+        "end": 51840,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7251461148262024,
+        "speaker": null
+    },
+    {
+        "text": "So we don't have any proofs, we just have world champion opinions don't want to master.",
+        "start": 52290,
+        "end": 58958,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.5667862892150879,
+        "speaker": null
+    },
+    {
+        "text": "But no one cannot prove it he was cheater or no.",
+        "start": 59054,
+        "end": 63480,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.57416170835495,
+        "speaker": null
+    },
+    {
+        "text": "What I'm thinking I don't know actually I want to say like we cannot just stop him to play chess.",
+        "start": 64230,
+        "end": 71786,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6705626845359802,
+        "speaker": null
+    },
+    {
+        "text": "Yes, because maybe and St.",
+        "start": 71858,
+        "end": 79514,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5974436402320862,
+        "speaker": null
+    },
+    {
+        "text": "Louis, who knows?",
+        "start": 79552,
+        "end": 81230,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7861177325248718,
+        "speaker": null
+    },
+    {
+        "text": "So you'll be more and more and more.",
+        "start": 84350,
+        "end": 88134,
+        "sentiment": "POSITIVE",
+        "confidence": 0.6458441019058228,
+        "speaker": null
+    },
+    {
+        "text": "What do you think, guys?",
+        "start": 88292,
+        "end": 89340,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8657827377319336,
+        "speaker": null
+    }
+]
